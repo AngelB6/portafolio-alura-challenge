@@ -424,9 +424,9 @@ textarea {
 
   .proyectos__contenedor {
     display: flex;
+    justify-content: center;
     align-items: center;
     gap: 16px;
-    margin: 0 152px 0 152px;
   }
 
   .proyectos__imagen {
